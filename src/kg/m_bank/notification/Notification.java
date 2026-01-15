@@ -5,5 +5,6 @@ public class Notification {
 
         System.out.println("Notification");
         System.out.println("Notification1");
+        System.out.println("Notification2");
     }
 }
