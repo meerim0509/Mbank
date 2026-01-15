@@ -1,0 +1,11 @@
+package kg.m_bank.promotions;
+
+public class JanuaryPromotions {
+    public static void main(String[] args) {
+
+        System.out.println("January ");
+        System.out.println("January123 ");
+        System.out.println("January1234 ");
+        System.out.println("January12345 ");
+    }
+}
